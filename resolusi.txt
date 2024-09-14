@@ -6,3 +6,5 @@ Yusuf Resolusi
 -belajar Git
 -belajar node.js
 -membuat project sederhana
+-membuat cv
+-membuat merch shop
