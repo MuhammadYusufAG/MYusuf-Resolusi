@@ -1,10 +1,11 @@
 Yusuf Resolusi
 -konsisten belajar coding 
 -goals tahun ini sampai react
--membuat portofolio yang bagus
+-html dan css
 -belajar JavaScript
 -belajar Git
 -belajar node.js
 -membuat project sederhana
 -membuat cv
 -membuat merch shop
+-membuat portofolio yang bagus
